@@ -156,7 +156,7 @@
 	                               
 	                               <sec:authorize access="hasRole('ADMIN')">
 	                                <li class="nav-item">
-	                                    <a class="nav-link" href="#">관리자페이지</a>
+	                                    <a class="nav-link" href="/admin/admin_main">관리자페이지</a>
 	                                </li>
 	                               </sec:authorize>
                                 </sec:authorize>
